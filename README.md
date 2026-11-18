@@ -19,9 +19,9 @@
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a> <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" alt="tensorflow" width="50" height="50"/></a> <a href="https://pandas.pydata.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a> <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
 </p>
 
-- **Languages:** Python (expert), Dart (primary), Rust (learning), C++ (legacy), JavaScript, SQL
+- **Languages:** Python, Dart, Rust (learning), C/C++, JavaScript, SQL
 - **Infrastructure & Ops:** Kubernetes, Docker, Linux, Apache, CI/CD pipelines
-- **Cloud & Databases:** AWS, Azure, ScyllaDB, Redis, PostgreSQL, DynamoDB
+- **Cloud & Databases:** AWS, Azure, ScyllaDB, Redis, PostgreSQL
 - **Frameworks & Protocols:** FastAPI, Flask, Flutter, REST, Async/ASGI, IoT Mesh Networks
 
 
